@@ -8,4 +8,4 @@ while True:
     if user_input == "q":
         quit()
     
-    if user_input in [rock paper]
+   
